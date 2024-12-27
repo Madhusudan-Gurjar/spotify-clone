@@ -14,8 +14,3 @@ This is a **Spotify-inspired music player web interface** built using **HTML** a
 - **HTML5**  
 - **CSS3**  
 
-## 🚀 Getting Started
-
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/Madhusudan-Gurjar/spotify-clone.git
